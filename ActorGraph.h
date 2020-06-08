@@ -1,13 +1,3 @@
-/*
- * ActorGraph.h
- * Author: Nang Chen (cs100fao), Haonan Huang (cs100fbd)
- * Date:   12/01/2017
- *
- * This is the header file of the cpp file that is meant to exist as a container 
- * for starter code that you can use to read the input file format defined in 
- * movie_casts.tsv. Feel free to modify any/all aspects as you wish.
- */
-
 #ifndef ACTORGRAPH_H
 #define ACTORGRAPH_H
 
