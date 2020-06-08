@@ -1,14 +1,3 @@
-/*
- * UnionFind.h
- * Author: Nang Chen (cs100fao) , Haonan Huang (cs100fbd)
- * Date:   12/01/2017
- *
- * This file is the header file of UnionFind.cpp that implements 
- * union find that finds the connection of actors.
- *
- */
-
-
 #ifndef UNIONFIND_H
 #define UNIONFIND_H
 
