@@ -1,13 +1,3 @@
-/*
- * ActorNode.h
- * Author: Nang Chen (cs100fao) , Haonan Huang (cs100fbd)
- * Date:   12/01/2017
- *
- * This file is used to implement nodes that are used to hold
- * each actor.
- *
- */
-
 #ifndef ACTORNODE_H
 #define ACTORNODE_H
 
