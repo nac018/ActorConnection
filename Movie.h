@@ -1,9 +1,3 @@
-/*
- *  Name: Haonan Huang, Nang Chen
- *  Data: 12/7/2017
- *  Overview: Header file for the Movie
- *  Assignment Number: 4
- */
 #ifndef MOVIE_H
 #define MOVIE_H
 
