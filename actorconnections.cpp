@@ -1,10 +1,3 @@
-/*
- *  ActorConnections.cpp
- *  Author: <Haonan Huang> <Nang Chen>
- *  Date:   <12/7/2017>
- *  
- *  This file is meant to exist as main.cpp file for actorconnections
- */
 #include "ActorGraph.h"
 #include "ActorNode.h"
 #include "ActorEdge.h"
