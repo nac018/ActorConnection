@@ -1,15 +1,3 @@
-/*
- * UnionFind.cpp
- * Author: Nang Chen (cs100fao) , Haonan Huang (cs100fbd)
- * Date:   12/01/2017
- *
- * This file is used to implement disjoint set that finds the connection
- * between two actors.
- *
- */
-
-
-
 #include "UnionFind.h"
 #include <iostream>
 
