@@ -1,10 +1,3 @@
-/*
- * ActorEdge.cpp
- * Author: <Haonan Huang> <Nang Chen>
- * Date:   <12/7/2017>
- *
- * This file is meant to exist as header file for actorEdge
- */
 #ifndef ACTOREDGE_H
 #define ACTOREDGE_H
 
